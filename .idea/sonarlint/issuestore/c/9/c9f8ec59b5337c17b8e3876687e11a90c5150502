@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8‰ ¤È¸1
+G	java:S106"+Replace this use of System.out by a logger.(Ùâ„³8‘ ¤È¸1
+G
+java:S2387"*"name" is the name of a field in "Parent".(Ê§…ñ8é¥¥È¸1
+\
+java:S1161":Add the "@Override" annotation above this method signature(¿‡¶¦þÿÿÿÿ8ë¥¥È¸1
+L	java:S106"+Replace this use of System.out by a logger.(œî¦–ûÿÿÿÿ8ëÛ¤È¸1
+L	java:S106"+Replace this use of System.out by a logger.(÷ýõ‘øÿÿÿÿ8øŸ¦È¸1

@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8·˜×Ç¸1
+q
+java:S6201"TReplace this instanceof check and cast with 'instanceof VicePresident vicePresident'(¹ß¨Î8Ì˜×Ç¸1
+F	java:S106"+Replace this use of System.out by a logger.(®ü_8Ì˜×Ç¸1
+e
+java:S6201"HReplace this instanceof check and cast with 'instanceof Manager manager'(¡„ÿÏ8÷°ÙÇ¸1
+L	java:S106"+Replace this use of System.out by a logger.(Ù¡°Ôşÿÿÿÿ8ø°ÙÇ¸1
+G	java:S106"+Replace this use of System.out by a logger.(©ì½¯8À®ÚÇ¸1
