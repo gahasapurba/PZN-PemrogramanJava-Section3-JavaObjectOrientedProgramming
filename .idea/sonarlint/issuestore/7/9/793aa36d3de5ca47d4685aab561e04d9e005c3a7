@@ -1,3 +1,7 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(±ï¶8™¹ñÍ¸1
-L	java:S106"+Replace this use of System.out by a logger.(ÈÙ×Êÿÿÿÿÿ8´öñÍ¸1
+Z
+java:S1854"8Remove this useless assignment to local variable "data".(…ÀØİúÿÿÿÿ8³ÛÇğ¸1
+G	java:S106"+Replace this use of System.out by a logger.(±ï¶8·ÛÇğ¸1
+L	java:S106"+Replace this use of System.out by a logger.(ÈÙ×Êÿÿÿÿÿ8¸ÛÇğ¸1
+K
+java:S1481")Remove this unused "data" local variable.(…ÀØİúÿÿÿÿ8ÁÛÇğ¸1
