@@ -1,5 +1,6 @@
 
 m
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8ïß‚Î¸1
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8®ü’¡¹1
 s
-java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(ë­‡ìýÿÿÿÿ8ðß‚Î¸1
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(ë­‡ìýÿÿÿÿ8®ü’¡¹1
+X	java:S125#"<This block of commented-out lines of code should be removed.(ôƒ˜…8œ¿¢¡¹1
