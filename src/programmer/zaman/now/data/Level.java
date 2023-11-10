@@ -1,5 +1,8 @@
 package programmer.zaman.now.data;
 
+import programmer.zaman.now.annotation.Fancy;
+
+@Fancy(name = "AnimalApp", tags = {"application", "java"})
 public enum Level {
 
     STANDARD("Standard Level"),

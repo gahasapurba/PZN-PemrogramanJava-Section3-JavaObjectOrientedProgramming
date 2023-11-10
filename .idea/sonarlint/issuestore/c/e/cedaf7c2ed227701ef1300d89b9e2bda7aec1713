@@ -1,3 +1,9 @@
 
+Q
+java:S3740%"/Provide the parametrized type for this generic.(í­ÒÙùÿÿÿÿ8éïÒÆ»1
 \
-java:S1118":Add a private constructor to hide the implicit public one.(ÀßìÃøÿÿÿÿ8÷°¹¹»1
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÀßìÃøÿÿÿÿ8÷°¹¹»1
+I
+java:S3011)",This accessibility update should be removed.(˜ÂÓ˜8«ğÒÆ»1
+L	java:S1065"+Replace this use of System.out by a logger.(àÅäÆüÿÿÿÿ8°ğÒÆ»1

@@ -1,0 +1,7 @@
+
+B
+java:S1181"%Catch Exception instead of Throwable.(λί‹™8Ι£”Α»1
+L	java:S106"+Replace this use of System.out by a logger.(ρ—Έ½ϊÿÿÿÿ8Ν£”Α»1
+L	java:S106"+Replace this use of System.out by a logger.(‡¬δΪÿÿÿÿÿ8Ο£”Α»1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªΊ»Ϊύÿÿÿÿ8Υ–Α»1

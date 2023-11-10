@@ -1,0 +1,5 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ό‰8‡εªΐ»1
+B
+java:S1181"%Catch Exception instead of Throwable.(λί‹™8–εªΐ»1
+L	java:S106"+Replace this use of System.out by a logger.(…Ώδύÿÿÿÿ8—εªΐ»1
